@@ -1,0 +1,1 @@
+# https-github.com-NordicPlayground-Android-nRF-UART
